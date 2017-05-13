@@ -415,6 +415,7 @@ PHP_FUNCTION(libvirt_storagepool_delete);
 PHP_FUNCTION(libvirt_network_define_xml);
 PHP_FUNCTION(libvirt_network_undefine);
 PHP_FUNCTION(libvirt_network_get);
+PHP_FUNCTION(libvirt_network_update);
 PHP_FUNCTION(libvirt_network_get_xml_desc);
 PHP_FUNCTION(libvirt_network_get_bridge);
 PHP_FUNCTION(libvirt_network_get_information);
